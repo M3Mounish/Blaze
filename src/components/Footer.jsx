@@ -8,7 +8,7 @@ function Footer() {
 
                 <div className='col-span-2'>
                     <h3 className='text-[#4db4f2] text-2xl font-bold'>BLAZE.</h3>
-                    <p className='text-xs text-slate-200'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Soluta labore dignissimos, </p>
+                    <p className='text-xs text-slate-200'>----Mounish----</p>
                     <div className='mt-4 flex'>
                         <FaInstagram className='flex mr-2' />
                         <FaTwitter className='flex mx-2' />
